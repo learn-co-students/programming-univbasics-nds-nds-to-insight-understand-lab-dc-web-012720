@@ -1,0 +1,1 @@
+puts directors_database[row_index][element_index][:title]
